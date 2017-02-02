@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/me"
+    android:icon="@mipmap/my_setting"
+    android:title="Settings"
+    app:showAsAction="always"></item>
+
+
+
+    <item
+        android:id="@+id/one"
+        android:title="Computer"
+        />
+    <item
+        android:id="@+id/two"
+        android:title="GamePad"
+        />
+    <item
+        android:id="@+id/three"
+        android:title="Camera"
+        />
+    <item
+        android:id="@+id/four"
+        android:title="Video"
+        />
+    <item
+        android:id="@+id/five"
+        android:title="Email"
+        />
+
+
+</menu>
